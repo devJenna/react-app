@@ -129,6 +129,7 @@ function App() {
       setId(nextId);
       setNextId(nextId + 1);
     }}></Create>
+
   } else if (mode === "UPDATE") {
     let title, body = null;
     for (let i = 0; i < topics.length; i++) {
