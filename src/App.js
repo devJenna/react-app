@@ -150,7 +150,7 @@ function App() {
         }
       }
       setTopics(newTopics);
-      setMode("READ"); // set mode to READ
+      setMode("READ"); // set mode to READ // 
     }}></Update>
   }
   return (
